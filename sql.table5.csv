@@ -1,0 +1,11 @@
+"flight_id","airline","origin","destination","duration_minutes","distance_km"
+1,"IndiGo","Delhi","Mumbai",130,1140
+2,"Air India","Bangalore","Chennai",60,290
+3,"SpiceJet","Mumbai","Kolkata",150,1650
+4,"Vistara","Delhi","Hyderabad",120,1265
+5,"GoAir","Pune","Ahmedabad",90,670
+6,"IndiGo","Lucknow","Delhi",55,440
+7,"AirAsia","Jaipur","Goa",125,1090
+8,"SpiceJet","Chennai","Mumbai",110,1030
+9,"Air India","Kolkata","Delhi",135,1300
+10,"Vistara","Hyderabad","Bangalore",75,570
